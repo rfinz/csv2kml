@@ -1,0 +1,22 @@
+*	Author: Raymond Finzel
+*	First Release: 5/15/12
+*	
+*
+*
+*
+*
+*
+*
+*	Description:
+*		Command line utility for coverting CSV files into valid KML
+*	files to display with Google Earth. '-h' prints a usage statement.	
+*	Primarily conforms to Fortran 77 standards, with a few exceptions,
+*	mostly in the use of implicit functions and subroutines.
+*
+*
+*
+*
+*
+*
+*
+*
