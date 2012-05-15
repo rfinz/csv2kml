@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmnls="http://www.opengis.net/kml/2.2/">
+<Document>
+<Placemark>
+<name>
+<!--name-->
+</name>
+<!--/preamble-->
+<LineString>
+<coordinates>
+<!--data-->
+</coordinates>
+</LineString>
+<!--/body-->
+</Placemark>
+</Document>
+</kml>
+<!--/postscript-->
